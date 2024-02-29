@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /NobisLab-website/sitemap.xml
