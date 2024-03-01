@@ -23,12 +23,12 @@ Requirements/ Key qualifications
 Candidates with a Ph.D. in neuroscience or related fields
 Candidates with experience with electrophysiology, imaging, stereotaxic mouse surgeries, and video-EEG are encouraged to apply.
 Highly value self-starter, able to work with a team, and high enthusiasm for science
-Interested candidates should send a CV and short statement of research interests to [willia.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).  
+Interested candidates should send a CV and short statement of research interests to [william.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).  
 
 # Ongoing Opportunities
 
 <!--### Staff Positions
-Technician positions open up occasionally, although there are none at this time. If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [willia.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).-->
+Technician positions open up occasionally, although there are none at this time. If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [william.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).-->
 
 ### Graduate students
 We are actively taking graduate students and rotators from the IGP, neuroscience program, and MSTP
@@ -36,6 +36,6 @@ We are actively taking graduate students and rotators from the IGP, neuroscience
 ### Undergraduate students
 *no longer taking new undergrads
 
-If you are interested in working in the lab, please send an email with your resume to [willia.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).
+If you are interested in working in the lab, please send an email with your resume to [william.p.nobis@vumc.org](mailto:william.p.nobis@vumc.org).
 
 {% include section.html %}
