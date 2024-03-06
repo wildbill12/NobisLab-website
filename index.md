@@ -3,7 +3,7 @@
 {%
   include alert.html
   type="tip"
-  content=T"he Nobis lab is actively recruiting students and post-docs! Please [join our team!](join)"
+  content="The Nobis lab is actively recruiting students and post-docs! Please [join our team!](join)"
 %}
 
 # The Nobis Lab
