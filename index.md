@@ -14,14 +14,10 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
   image="images/neurons.jpg"
   link="research"
   title="Our Research"
-  text=researchtext
+  flip=false
+  text="Epilepsy is a complex neurological disorder that encompasses more than simply repeated seizures and requires a multidisciplinary approach to make scientific advances. Our hope is that combining multiple research techniques can make headway to inform new therapeutic approaches for sudden unexpected death in epilepsy prevention and the treatment of epilepsy and its comorbidities, as well as other neurologic disease with shared pathophysiology such as sudden unexpected infant death and respiratory depression."
 %}
 
-{% capture researchtext %}
-
-Epilepsy is a complex neurological disorder that encompasses more than simply repeated seizures and requires a multidisciplinary approach to make scientific advances. Our hope is that combining multiple research techniques can make headway to inform new therapeutic approaches for sudden unexpected death in epilepsy prevention and the treatment of epilepsy and its comorbidities, as well as other neurologic disease with shared pathophysiology such as sudden unexpected infant death and respiratory depression.
-
-{% endcapture %}
 
 {%
   include feature.html
@@ -37,10 +33,9 @@ Epilepsy is a complex neurological disorder that encompasses more than simply re
   include feature.html
   link="join"
   image="images/join.jpg"
-  text="Join our team"
-  icon="fa-solid fa-arrow-right"
+  title="Join our team!"
   text="Join our team!  The Nobis lab is actively recuriting post-docs and graduate students!"
-  flip=true
+  flip=false
   style="bare"
 %}
 
