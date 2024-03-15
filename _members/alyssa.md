@@ -15,7 +15,7 @@ translating science from the lab to medicine and working with the students throu
 
 {%
   include figure.html
-  image="images/habanero.png"
+  image="images/habanero.jpg"
   caption="Habanero the cat"
   width="400px"
 %}
