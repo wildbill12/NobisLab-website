@@ -5,7 +5,8 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-hands-helping" image="images/join.png" %}Join
+# {% include icon.html icon="fa-solid fa-hands-helping" %}Join
+![Join our team!](image="images/join.png")
 
 We seek to build a multidisciplinary and diverse team of scientists with a strong committment to providing hands-on training and fostering intellectual independence appropriate for all levels
 
