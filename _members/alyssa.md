@@ -13,4 +13,10 @@ Alyssa is from South Boston, VA and graduated with a BS in Neuroscience from Wil
 translating science from the lab to medicine and working with the students through their undergraduate and graduate school journeys. She loves her cat Habanero 
 (pictured), learning fun facts/trivia and the Kansas City Chiefs!
 
-![Habanero]("images/habanero.jpg")
+{%
+  include figure.html
+  image="images/habanero.png"
+  caption="Habanero the cat"
+  width="400px"
+%}
+
