@@ -7,7 +7,7 @@ pi:
   description: Principal Investigator
 
 current-ra:
-  icon: fa-solid fa-pen
+  icon: fa-solid fa-book
   description: Research Assistant
 
 postdoc:
@@ -23,7 +23,7 @@ undergrad:
   description: Undergraduate Student
 
 alumni:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-brain
   description: alumni
 
 mascot:
