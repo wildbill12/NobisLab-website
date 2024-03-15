@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow Condensed", sans-serif;
+  --title: "arial", sans-serif;
+  --heading: "arial", sans-serif;
+  --body: "arial", sans-serif;
   --code: "Roboto Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
