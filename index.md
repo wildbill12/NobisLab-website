@@ -37,7 +37,7 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
 {%
   include feature.html
   link="join"
-  image="images/join.jpg"
+  image="images/join.png"
   title="Join our team!"
   text="Join our team!  The Nobis lab is actively recuriting post-docs and graduate students!"
   flip=false
