@@ -1,7 +1,7 @@
 ---
 name: Wenwei Yan, MS
 image: images/ww.jpg
-role: ra
+role: current-ra
 aliases:
   - ww yan
 links:
