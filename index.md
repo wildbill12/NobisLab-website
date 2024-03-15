@@ -16,7 +16,7 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
 
 {%
   include feature.html
-  image="images/neurons.jpg"
+  image="images/neuron.jpg"
   link="research"
   title="Our Research"
   flip=false
