@@ -6,7 +6,13 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join
-![Join our team!](image="images/join.png")
+{%
+  include figure.html
+  image="images/join.png"
+  caption="Join our team!"
+  link="join"
+  width="400px"
+%}
 
 We seek to build a multidisciplinary and diverse team of scientists with a strong committment to providing hands-on training and fostering intellectual independence appropriate for all levels
 
