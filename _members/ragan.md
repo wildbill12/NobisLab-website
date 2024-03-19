@@ -6,7 +6,7 @@ aliases:
   - Ragan Chaffin
 links:
   
-linkedIn: https://www.linkedin.com/in/raganhuffman/
+linkedIn: raganhuffman
 ---
 Ragan was a research assistant in the lab who is now an Associate variant specialist at 
 Myriad Genetics 
