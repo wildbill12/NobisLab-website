@@ -6,6 +6,6 @@ aliases:
   - Maya
 links:
   
-linkedIn: https://www.linkedin.com/in/mayaxia/
+linkedIn: mayaxia
 ---
 Maya was an undergrad in the lab, now an MSTP at Columbia
