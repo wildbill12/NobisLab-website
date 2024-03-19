@@ -5,7 +5,6 @@ role: alumni
 aliases:
   - Jeremy
 links:
-  
-linkedIn:
+  linkedIn:
 ---
 Jeremy was an undergrad in the lab, now a medical student at Hackensack School of Medicine
