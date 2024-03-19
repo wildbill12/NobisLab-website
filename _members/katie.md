@@ -5,7 +5,6 @@ role: alumni
 aliases:
   - Katie
 links:
-  
-linkedIn:
+  linkedIn:
 ---
 Katie was an undergrad in the lab, now a medical student at the Medical College of Georgia
