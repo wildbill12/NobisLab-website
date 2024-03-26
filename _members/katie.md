@@ -5,6 +5,6 @@ role: alumni
 aliases:
   - Katie
 links:
-  linkedIn:
+  linkedin: katie-preisinger-739052169
 ---
 Katie was an undergrad in the lab, now a medical student at the Medical College of Georgia
