@@ -1,6 +1,6 @@
 ---
 name: Alyssa Levitt
-image: images/alyssaL.jpg
+image: images/alyssal.jpg
 role: alumni
 aliases:
   - Alyssa
