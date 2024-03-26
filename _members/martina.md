@@ -1,6 +1,6 @@
 ---
 name: Martina Hannaalla
-image: images/alyssaL.jpg
+image: images/martina.jpg
 role: alumni
 aliases:
   - Martina
