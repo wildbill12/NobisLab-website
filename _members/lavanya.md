@@ -1,6 +1,6 @@
 ---
 name: Lavanya Dhavala
-image: images/lavanya.jpg
+image: images/lavanya.JPG
 role: undergrad
 aliases:
   - Lavanya
