@@ -7,4 +7,11 @@ aliases:
 links:
   
 ---
-Eunyoung is an undergrad in the lab
+Eunyoung is a senior majoring in neuroscience and math. She is interested the circuitry and impact of stress in SUDEP. In her free time, she loves hanging out with her cat - Coco, reading, and playing chess with her friends.
+
+
+
+
+
+
+
