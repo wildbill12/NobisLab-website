@@ -16,3 +16,13 @@ links:
 Bill is an Assistant Professor at Vanderbilt University Medical Center in the department of Neurology.  He graduated with a B.S. in Biochemistry from Michigan State University in 2000 and then completed the Medical Scientist Training Program at Vanderbilt University in 2011. He did his residency in Neurology and an  Epilepsy fellowship both at Northwestern University in Chicago.  He returned to Nashville in Sept 2018, taking a position at Vanderbilt University Medical Center as an epileptologist and researcher to start a new lab. 
 
 I hope that my translational and basic science explorations will be applicable to sudden death via neurologic mechanisms such as SUDEP and SIDS and that these brain regions can be explored in terms of their potential role in comorbid depression and anxiety often seen in epilepsy patients. I am happy to be back in Nashville with my wife, this time exploring the city as a father of three wonderful daughters.
+
+I don't have a ton of free time due to the three wonderful daughters, but I enjoy running, the wonderful nature in the Nashville area, watching football (Go Bills!), reading and spending time with my cats.
+
+
+{%
+  include figure.html
+  image="images/whittsandgracie.jpg"
+  caption="whitts and gracie"
+  width="400px"
+%}
