@@ -29,6 +29,10 @@ alumni:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+  
+summer:
+  icon: fa-solid fa-sunglasses
+  description: Summer Student
 
 # general
 
