@@ -1,7 +1,7 @@
 ---
 name: Mallie Higgins
 image: images/mallie.jpg
-role: undergrad
+role: summer
 aliases:
   - Mallie
 links:
