@@ -8,7 +8,7 @@
 
 # The Nobis Lab
 
-Our lab uses cutting edge techniques to take a neural circuit approach to study epilepsy, in particular seizure-related respiratory dysfunction and sudden unexpected death in epilepsy (SUDEP). Our goal is harness this knowledge to develop strategies to prevent SUDEP and treat epilepsy and its commorbidities. Toward this goal, we use a variety of approaches including electrophysiology, imaging, optogenetics, plethysmography, fiber photometry, calcium imaging, EEG and telemetry. 
+Our lab uses cutting edge techniques to take a neural circuit approach to study epilepsy, in particular seizure-related respiratory dysfunction and sudden unexpected death in epilepsy (SUDEP). Our goal is to harness this knowledge to develop strategies to prevent SUDEP and treat epilepsy and its comorbidities. Toward this goal, we use a variety of approaches including electrophysiology, imaging, optogenetics, plethysmography, fiber photometry, calcium imaging, EEG and telemetry. 
 
 {% include section.html %}
 
