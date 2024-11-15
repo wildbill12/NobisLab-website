@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/epd2.20304
+  title: Near SUDEP in a patient with craniosynostosis syndrome and temporal lobe
+    encephaloceles
+  authors:
+  - Joseph Ta
+  - Christopher Smith
+  - Nyasia Mayaudon Finley
+  - Martin Gallagher
+  - Andre LaGrange
+  - Kelly Lowen
+  - Trevor Meyer
+  - Vivek Ganesh
+  - Jay V. Shah
+  - William Nobis
+  publisher: Epileptic Disorders
+  date: '2024-11-13'
+  link: https://doi.org/g8q5wb
+  orcid: 0000-0002-2318-6077
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmc:PMC10126895
   title: 512 Odorant exposure decreases mortality in a Dravet Syndrome mouse model
   authors:
