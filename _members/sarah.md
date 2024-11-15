@@ -1,7 +1,7 @@
 ---
 name: Sarah Mulloy
 image: images/sarah.jpg
-role: current-postdoc
+role: postdoc
 aliases:
   - Sarah
 links:
