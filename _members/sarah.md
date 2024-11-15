@@ -13,7 +13,7 @@ When Sarah is not in the lab, she enjoys playing video games and table roleplayi
 
 {%
   include figure.html
-  image="images/viloet.jpg"
+  image="images/violet.jpg"
   caption="Violet the cat"
   width="400px"
 %}
