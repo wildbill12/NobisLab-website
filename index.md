@@ -36,7 +36,7 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
 
 {% capture col1 %} ![plain image](images/posterAES.jpg) Lavanaya and Eunyoung presenting at AES! {% endcapture %}
 {% capture col2 %} ![plain image](images/groupdinner.jpg) Lab dinner{% endcapture %}
-{% capture col3 %}i![plain image](images/team1.jpg) Lab fun at AES! {% endcapture %}
+{% capture col3 %} ![plain image](images/team1.jpg) Lab fun at AES! {% endcapture %}
 
 {%
   include cols.html
