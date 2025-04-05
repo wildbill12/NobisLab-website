@@ -1,13 +1,15 @@
 ---
 name: Eunyoung Hong
 image: images/eunyoung.jpg
-role: undergrad
+role: current-ra
 aliases:
   - Eunyoung
 links:
   
 ---
-Eunyoung is a senior majoring in neuroscience and math. She is interested the circuitry and impact of stress in SUDEP. In her free time, she loves hanging out with her cat - Coco, reading, and playing chess with her friends.
+Eunyoung completed a degree in neuroscience and math at Vanderbilt, completing her senior thesis in the lab. She is interested the circuitry and impact of stress in SUDEP. In her free time, she loves hanging out with her cat - Coco, reading, and playing chess with her friends.
+
+She is staying with us as a research assistant and planning a career as a physician scientist.
 
 {%
   include figure.html
