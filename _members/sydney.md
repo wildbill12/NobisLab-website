@@ -9,8 +9,9 @@ links:
   linkedin: sydney-thompson-36807a2a7
    
 ---
-I am from central jersey and graduated from Penn State University with a B.S. degree in Biology/Neuroscience as a member of Cohort 6 of the Millennium Scholars Program. I am interested in studying the effects of Fenfluramine on BNST activity and ultimately work to uncover the underlying causes of SUDEP and seizure induced respiratory dysfunction. I plan to pursue a PhD here at Vanderbilt. I love gymnastics, video gaming and my fur child Appa!
+I am from central jersey and graduated from Penn State University with a B.S. degree in Biology/Neuroscience as a member of Cohort 6 of the Millennium Scholars Program. I am interested in studying the effects of Fenfluramine on BNST activity and ultimately work to uncover the underlying causes of SUDEP and seizure induced respiratory dysfunction. I love gymnastics, video gaming and my fur child Appa!
 
+Sydney is currently a masters student in Neuroscience.
 
 {%
   include figure.html
