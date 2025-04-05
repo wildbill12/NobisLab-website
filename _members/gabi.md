@@ -7,4 +7,4 @@ aliases:
 links:
   
 ---
-Gabi is from Boca Raton, FL, and is a freshman at Vanderbilt majoring in Neuroscience. She recently joined the Nobis Lab and enjoys working with the other members to develop a greater understanding of SUDEP and laboratory techniques. Aside from her science passions, she loves the beach, runs her own blog, and trying out new restaurants in Nashville.
+Gabi is from Boca Raton, FL, and is a rising Junior at Vanderbilt majoring in Neuroscience. She has been in the lab since freshman year and is enjoying working with the other members to develop a greater understanding of SUDEP and laboratory techniques. Aside from her science passions, she loves the beach, runs her own blog, and trying out new restaurants in Nashville.
