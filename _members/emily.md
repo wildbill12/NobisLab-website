@@ -1,6 +1,6 @@
 ---
 name: Emily Xu
-image: images/emily.jpg
+image: images/emily.jpeg
 role: undergrad
 aliases:
   - Emily
