@@ -12,6 +12,6 @@ Jiarui (‘jar-ray’) comes from Texas and is about to start their last year at
 {%
   include figure.html
   image="images/douglas.png"
-  caption="Douglas, one of many little guyst"
+  caption="Douglas, one of many little guys"
   width="400px"
 %}
