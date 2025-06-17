@@ -1,0 +1,4 @@
+Jiarui (‘jar-ray’) comes from Texas and is about to start their last year at Vanderbilt. He is on the pre-med track, majoring in Neuroscience and minoring in Philosophy. They have an interest in brain circuitry, stress, and sleep. Whenever he’s not in the lab, you can find them longboarding around the city, working at a boba shop, or losing their head in nonsensical daydreams.
+
+
+Douglas, one of many little guys
