@@ -1,6 +1,6 @@
 ---
 name: Betzy Martinez
-image: images/betzy.jpeg
+image: images/betzy.jpg
 role: undergrad
 aliases:
   - Betzy
