@@ -26,10 +26,10 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
 
 {%
   include feature.html
-  image="images/teamphoto.jpg"
+  image="images/teamphoto2.jpg"
   link="team"
   title="Meet our team"
-  text="Our lab is made up of some fantastic people!"
+  text="Lab group photo!"
   flip=true
   style="bare"
 %}
