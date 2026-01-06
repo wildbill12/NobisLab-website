@@ -29,7 +29,7 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
   image="images/teamphoto2.jpg"
   link="team"
   title="Meet our team"
-  text="Lab group photo!"
+  text=" "
   flip=true
   style="bare"
 %}
