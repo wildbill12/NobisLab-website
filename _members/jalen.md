@@ -1,7 +1,7 @@
 ---
 name: Jalen Nicely
 image: images/jalen.jpg
-role: phd
+role: masters
 aliases:
   - Jalen
 links:
