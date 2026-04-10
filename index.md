@@ -31,6 +31,7 @@ Our lab uses cutting edge techniques to take a neural circuit approach to study 
   title="Meet our team"
   text=" "
   flip=true
+  height="800px"
   style="bare"
 %}
 
