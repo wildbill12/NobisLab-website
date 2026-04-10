@@ -1,6 +1,6 @@
 ---
 name: Diana Cervantes
-image: images/diana.jpg
+image: images/diana.png
 role: phd
 aliases:
   - Diana
@@ -19,7 +19,7 @@ Diana graduated from the University of Idaho with a B.S. in biology and medical 
 
 {%
   include figure.html
-  image="images/chile.jpg"
+  image="images/chile.jpeg"
   caption="Chile"
   width="400px"
 %}
