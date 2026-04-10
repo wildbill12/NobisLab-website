@@ -8,7 +8,7 @@ links:
   email: flavia.c.pena.villa@vumc.org
 ---
 
-Yana was born in Brazil 
+Flavia was born in Brazil 
 
 She spent the last year with the lab as a post-bac student after graduating from USF in 2025 and will continue on as a research assistant.
 
