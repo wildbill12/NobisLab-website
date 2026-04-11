@@ -18,3 +18,15 @@ Flavia has 3 brothers, and her family has 6 cats and 1 dog back in Brazil. In he
   caption="kitty"
   width="400px"
 %}
+{%
+  include figure.html
+  image="images/kitty1.jpg"
+  caption="kitty"
+  width="400px"
+%}
+{%
+  include figure.html
+  image="images/dog.jpg"
+  caption="kitty"
+  width="400px"
+%}
