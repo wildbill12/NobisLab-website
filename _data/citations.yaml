@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1212/WNL.0000000000218470
+  title: Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction
+    in Patients With Temporal Lobe Epilepsy
+  authors:
+  - Haatef Pourmotabbed
+  - Derek J. Doss
+  - Lucas E. Sainburg
+  - William P. Nobis
+  - Dario J. Englot
+  - Victoria Morgan
+  - Catie Chang
+  publisher: Neurology
+  date: '2026-09-22'
+  link: https://doi.org/hcqzv8
+  orcid: 0000-0002-2318-6077
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1212/wnl.0000000000214385
   title: Altered Interictal Bed Nucleus of Stria Terminalis Connectivity in Patients
     With Temporal Lobe Epilepsy
