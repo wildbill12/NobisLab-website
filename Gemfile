@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
   gem "google-protobuf", ">= 3.25.0"
+  gem "sass-embedded", ">= 1.62.1"
 end
