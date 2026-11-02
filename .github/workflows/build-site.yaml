@@ -25,7 +25,7 @@ jobs:
         uses: crazy-max/ghaction-dump-context@v1
 
       - name: Checkout branch contents
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
          allow-unsafe-pr-checkout: true # <-- ADD THIS LINE WITH EXACT INDENTATION
 
