@@ -37,6 +37,7 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
+          allow-unsafe-pr-checkout: true # <-- ADD THIS LINE WITH EXACT INDENTATION
 
       - name: Setup Python
         uses: actions/setup-python@v4
