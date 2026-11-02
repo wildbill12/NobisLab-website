@@ -32,8 +32,10 @@ jobs:
         with:
           ruby-version: "3.0"
           bundler-cache: true
-        env:
-            CFLAGS: "-Wno-error=incompatible-pointer-types"
+     # ADD THIS STEP IMMEDIATELY BELOW IT:
+      - name: Configure Bundler for old compiler types
+        run: |
+          bundle config set --global build.posix-spawn "--with-cflags=-Wno-error=incompatible-pointer-types"
 
       - name: Get Pages url
         id: pages
