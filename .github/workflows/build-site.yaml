@@ -30,12 +30,8 @@ jobs:
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.0"
+          ruby-version: "3.2"
           bundler-cache: true
-     # ADD THIS STEP IMMEDIATELY BELOW IT:
-      - name: Configure Bundler for old compiler types
-        run: |
-          bundle config set --global build.posix-spawn "--with-cflags=-Wno-error=incompatible-pointer-types"
 
       - name: Get Pages url
         id: pages
