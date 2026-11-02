@@ -37,9 +37,8 @@ jobs:
         with:
           ruby-version: "3.0"
           bundler-cache: true
-          
-  env:
-    CFLAGS: "-Wno-error=incompatible-pointer-types"
+        env:
+         CFLAGS: "-Wno-error=incompatible-pointer-types"
 
       - name: Get Pages url
         if: github.event.action != 'closed'
