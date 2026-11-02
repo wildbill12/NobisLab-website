@@ -30,6 +30,7 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
+          allow-unsafe-pr-checkout: true # <-- ADD THIS LINE WITH EXACT INDENTATION
 
       - name: Install Ruby packages
         if: github.event.action != 'closed'
