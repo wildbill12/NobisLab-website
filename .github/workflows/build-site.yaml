@@ -26,6 +26,9 @@ jobs:
 
       - name: Checkout branch contents
         uses: actions/checkout@v3
+        with:
+         allow-unsafe-pr-checkout: true # <-- ADD THIS LINE WITH EXACT INDENTATION
+
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
