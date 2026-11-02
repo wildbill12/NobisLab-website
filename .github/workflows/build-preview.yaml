@@ -35,10 +35,8 @@ jobs:
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.0"
+          ruby-version: "3.2"
           bundler-cache: true
-        env:
-         CFLAGS: "-Wno-error=incompatible-pointer-types"
 
       - name: Get Pages url
         if: github.event.action != 'closed'
