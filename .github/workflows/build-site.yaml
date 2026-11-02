@@ -31,7 +31,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: true
+          bundler-cache: false # 1. Stop the action from auto-running bundle install
+
+      - name: Force compiler flag and install gems
+        run: |
+          bundle config set --global build.posix-spawn "--with-cflags=-Wno-error=incompatible-pointer-types"
+          bundle install --jobs 4 --retry 3
 
       - name: Get Pages url
         id: pages
